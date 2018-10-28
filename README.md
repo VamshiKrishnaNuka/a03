@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hdjhdj bnh jjj bjjj bhn bbb shsjsj shsj nsh sjsjh
-=======
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
@@ -40,4 +38,3 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
->>>>>>> e7f09e9d5e4216e10d074e3c6d826f1eed97c7d3
