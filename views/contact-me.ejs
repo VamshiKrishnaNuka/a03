@@ -3,7 +3,8 @@
 <body>
 <h3>Contact Form</h3>
     <div class="container">
-        <form onsubmit="alert('Your Form Is Saved')">
+        <!-- <form onsubmit="alert('Your Form Is Saved')"> -->
+            <form method="POST" role="form">
             <label for="fname">First Name</label>
             <input type="text" id="fname" name="firstname" placeholder="Vamshi Krishna"
             pattern="[A-Za-z\s-]{0,}" title="Enter only alphabets" required>
@@ -36,4 +37,5 @@
         <a href="https://www.facebook.com/profile.php?id=100005266274186"><img src="/images/facebook.png" alt="facebook link" width="40" height="40"></a>
     </section>
 <link rel="stylesheet" href="/css/Info.css">
+<script src="/js/Contact.js" defer></script>
 <% include footer %>
