@@ -26,31 +26,14 @@ Visual Studio Code is recommended, but you can use Sublime, Notepad++, or any te
 - BootStrap FixedTop NavBar (for the menu); https://getbootstrap.com/examples/navbar-fixed-top/
 
 # Developer Tools
+- Windows Explorer Context Menu: Add 'Open command window here as administrator'  - - http://www.sevenforums.com/tutorials/47415-open-command-window-here-administrator.html
 - VS Code: https://code.visualstudio.com/
 - Git for Windows: https://git-scm.com/downloads
 - TortoiseGit: https://tortoisegit.org/
 
-# Resources
-- Dillinger.io (to validate markdown like this file): http://dillinger.io/
-- W3C Markup Validation Service: https://validator.w3.org/
-
 # Links
 - Code Repository
 - Demo
-
-# Development Tools
-Windows Explorer Context Menu: Add 'Open command window here as administrator' http://www.sevenforums.com/tutorials/47415-open-command-window-here-administrator.html
-Visual Studio Code
-
-# Get Started
-Open a command window in your c:\44563\a03 folder or from VS Code menu, chose View / Integrated Terminal
-Install nodemon globally with npm install -g nodemon
-Install the dependencies listed in package.json with npm install.
-Run nodemon to start the server. (Hit CTRL-C to stop.)
-> npm install -g nodemon
-> npm install
-> nodemon
-Open browser http://localhost:8081.
 
 # Set up Mailgun
 Sign up for an account at https://www.mailgun.com.
@@ -74,6 +57,10 @@ Open Git Bash in your project folder, add the heroku remote (Command 1 below).
 In Git Bash, push to your heroku remote (Command 2 below).
 git remote add heroku https://git.heroku.com/resumesite563.git
 git push heroku master
+
+# Resources
+- Dillinger.io (to validate markdown like this file): http://dillinger.io/
+- W3C Markup Validation Service: https://validator.w3.org/
 
 # References
 Express in Action: Writing, building, and testing Node.js applications by Evan M, https://www.manning.com/books/express-in-action
