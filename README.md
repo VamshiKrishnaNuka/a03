@@ -31,7 +31,6 @@ Visual Studio Code is recommended, but you can use Sublime, Notepad++, or any te
 - Git for Windows: https://git-scm.com/downloads
 - TortoiseGit: https://tortoisegit.org/
 
-
 # Set up Mailgun
 Sign up for an account at https://www.mailgun.com.
 Log in.

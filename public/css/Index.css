@@ -106,7 +106,7 @@ div{
 	font-family: Verdana, sans-serif;
 	font-size:15px;
 	text-align:center;
-	color:#ffffff;
+	color:black !important;
 }
 
 h1:hover, h2:hover
@@ -124,7 +124,3 @@ li{
 color: red;
 }
 
-h3,h5{
-	color: black;
-	size: 50px;
-}
