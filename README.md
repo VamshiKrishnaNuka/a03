@@ -1,4 +1,4 @@
-##A03 Personal Website
+## A03 Personal Website
 A simple website using server-side:
 
 Learning JavaScript and jQuery by interacting with a user. 
