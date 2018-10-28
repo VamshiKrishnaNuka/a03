@@ -1,16 +1,1 @@
-<<<<<<< HEAD
 node_modules
-=======
-# Node build artifacts
-node_modules
-npm-debug.log
-
-# Local development
-*.env
-*.dev
-.DS_Store
-
-# Docker
-Dockerfile
-docker-compose.yml
->>>>>>> e7f09e9d5e4216e10d074e3c6d826f1eed97c7d3
