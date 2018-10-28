@@ -21,6 +21,10 @@ h2 {
 	padding-bottom: 25px;
 	color: #acd1b2;
 }
+p{
+	color: black;
+	font-size: 20px;
+}
 .navbar-brand{
 	font-size: 20px;
 }
@@ -59,10 +63,7 @@ div{
     border-top-right-radius: 15px;
     color: red;
 }
-/* p{
-	color: red;
-	font-size: 20px;
-} */
+
 .Past{
     position: relative;
     font-weight: bold;
@@ -111,18 +112,12 @@ div{
 	text-align:center;
 	color:#ffffff;
 }
-/* .hover:hover
-{
-	background-color:#ffffff;
-} */
+
 h1:hover, h2:hover
 {
 	background-color:#102372;
 }
-/* h2:hover
-{
-	background-color:#102372;
-} */
+
 div{
 	border-radius:3px dotted blue;
 }
