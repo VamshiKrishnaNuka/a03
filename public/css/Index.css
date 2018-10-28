@@ -1,0 +1,134 @@
+body {
+	background-image: url("/images/ankush-minda-727629-unsplash.jpg");
+	background-size: cover;
+	/* fix the background */
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	}
+h1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
+}
+h2 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
+}
+.navbar-brand{
+	font-size: 20px;
+}
+
+#name {
+	position: relative;
+	color:orange;
+	font-family: Verdana, sans-serif;
+	font-weight: oblique;
+	font-size: 20px; 
+}
+#mobile {
+	position: relative;
+	color:white;
+	font-family: Verdana, sans-serif;
+	font-weight: oblique;
+	font-size: 20px; 
+}
+#email{
+    position: relative;
+	margin-right:5px;
+	padding-top:5px;
+	font-size:16px;
+	font-family: Verdana, sans-serif;
+	color:green;
+}
+div{
+	border-radius:5px;
+}
+#AboutMe {
+    position: relative;
+    font-weight: bold;
+	top: -10px;
+	font-size: 15px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: red;
+}
+/* p{
+	color: red;
+	font-size: 20px;
+} */
+.Past{
+    position: relative;
+    font-weight: bold;
+	top: -10px;
+	font-size: 15px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: red;
+}
+.Skills{
+    position: relative;
+    font-weight: bold;
+	top: -10px;
+	font-size: 15px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: red;
+}
+#Futuresection {
+    position: relative;
+    font-weight: bold;
+	top: -10px;
+	font-size: 15px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: red;
+}
+.Schedule {
+    position: relative;
+    font-weight: bold;
+	top: -10px;
+	font-size: 15px;
+	border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: red;
+}
+
+#footer{
+	position:relative;
+	height: 50px;
+	float:right;
+	background-color:#668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size:15px;
+	text-align:center;
+	color:#ffffff;
+}
+/* .hover:hover
+{
+	background-color:#ffffff;
+} */
+h1:hover, h2:hover
+{
+	background-color:#102372;
+}
+/* h2:hover
+{
+	background-color:#102372;
+} */
+div{
+	border-radius:3px dotted blue;
+}
+img{
+	border-radius:3px dotted blue;
+}
+li{
+color: red;
+}
