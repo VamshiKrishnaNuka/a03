@@ -31,21 +31,25 @@
   main {
     display: grid;
     grid-template-columns: 30% 30% 30%;
-    background-color: #fff;
+    background-color:greenyellow;
     color: #444;
     padding: 1em;
   }
   
   .box {
-    background-color: red;
+    background-color: blue;
     color: #fff;
     border-radius: 0.5em;
     padding: 1em;
     margin: 0.5em;
     font-size: 1em;
     text-align: center;
+    
   }
   
+  .box:hover{
+    background-color: black;
+  }
   ol, ul {
     padding-left: 1em;
     padding-bottom: 1em;
