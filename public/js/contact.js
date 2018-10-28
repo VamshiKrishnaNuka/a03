@@ -10,7 +10,7 @@ app.post("/contact",function(req,res){
       from: 'Mail Gun Nuka <postmaster@sandbox8c4827023a704a6fa8bc0ff533b7159b.mailgun.org>',
       to: 'geniusdexter833@gmail.com',
       subject: req.body.firstname,
-      text: req.body.subject
+      text: req.body.body
     };
      
     mailgun.messages().send(data, function (error, body) {
